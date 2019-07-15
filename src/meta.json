@@ -1,0 +1,21 @@
+{
+  "name": "$t:image_order",
+  "version": "1.0.0",
+  "types": ["json"],
+  "icon": "sort_by_alpha",
+  "options": {
+    "mirroredField": {
+      "name": "$t:mirrored_field",
+      "comment": "$t:mirrored_field_comment",
+      "interface": "text-input"
+    }
+  },
+  "translation": {
+    "en-US": {
+      "image_order": "Image Order Tool",
+      "mirrored_field": "Field for images",
+      "mirrored_field_comment": "Load the list of images from a \"files\" interface",
+      "no_images_selected": "No images selected"
+    }
+  }
+}
